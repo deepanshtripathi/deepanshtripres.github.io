@@ -1,0 +1,53 @@
+.caption11-container {
+  display: flex;
+  position: relative;
+}
+.caption11-caption {
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.caption11-root-class-name {
+  left: 38px;
+  bottom: -28px;
+  position: absolute;
+}
+.caption11-root-class-name1 {
+  top: 238px;
+  left: 315px;
+  position: static;
+}
+@media(max-width: 479px) {
+  .caption11-caption {
+    font-size: 16px;
+    line-height: 40px;
+  }
+}
+
+.component21-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component21-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component21-text {
+  width: 945px;
+  font-size: 17px;
+  text-align: justify;
+  border-width: 0px;
+  background-color: transparent;
+}

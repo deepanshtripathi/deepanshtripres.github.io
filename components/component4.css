@@ -1,0 +1,12 @@
+.component4-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: 41px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+.component4-text {
+  text-align: center;
+}

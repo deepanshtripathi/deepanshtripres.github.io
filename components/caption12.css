@@ -1,0 +1,23 @@
+.caption12-container {
+  display: flex;
+  position: relative;
+}
+.caption12-caption {
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.caption12-root-class-name {
+  left: 38px;
+  bottom: -28px;
+  position: absolute;
+}
+@media(max-width: 479px) {
+  .caption12-caption {
+    font-size: 16px;
+    line-height: 40px;
+  }
+}

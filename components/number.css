@@ -1,0 +1,75 @@
+.number-number {
+  position: relative;
+  background-color: #ffffff;
+}
+.number-root-class-name {
+  background-color: #E8E6DA;
+}
+.number-root-class-name1 {
+  background-color: #D0DFA6;
+}
+.number-root-class-name2 {
+  background-color: #79D490;
+}
+.number-root-class-name3 {
+  background-color: #4db131;
+}
+.number-root-class-name4 {
+  background-color: #4db131;
+}
+.number-root-class-name5 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name6 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name7 {
+  background-color: #4db131;
+}
+.number-root-class-name8 {
+  background-color: #4db131;
+}
+.number-root-class-name9 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name10 {
+  background-color: #E8E6DA;
+}
+.number-root-class-name11 {
+  background-color: #D0DFA6;
+}
+.number-root-class-name12 {
+  background-color: #79D490;
+}
+.number-root-class-name13 {
+  background-color: #4db131;
+}
+.number-root-class-name14 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name15 {
+  background-color: #4db131;
+}
+.number-root-class-name16 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name17 {
+  background-color: #4db131;
+}
+.number-root-class-name18 {
+  background-color: #dbe8bc;
+}
+.number-root-class-name19 {
+  background-color: #4db131;
+}
+@media(max-width: 479px) {
+  .number-number {
+    width: 40px;
+    height: 40px;
+  }
+  .number-text {
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+  }
+}

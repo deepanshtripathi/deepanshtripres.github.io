@@ -1,0 +1,13 @@
+.component3-container {
+  display: flex;
+  position: relative;
+}
+.component3-text {
+  width: 463px;
+  height: 1382px;
+  font-size: 17px;
+  text-align: justify;
+  border-width: 0px;
+  border-radius: 0px;
+  background-color: transparent;
+}

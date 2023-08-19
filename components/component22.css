@@ -1,0 +1,42 @@
+.component22-container {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component22-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.component22-container2 {
+  display: flex;
+  position: relative;
+}
+.component22-caption {
+  font-size: 24px;
+  font-style: normal;
+  text-align: left;
+  font-family: Lora;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.component22-text {
+  width: 945px;
+  font-size: 17px;
+  text-align: justify;
+  border-width: 0px;
+  background-color: transparent;
+}
+@media(max-width: 479px) {
+  .component22-caption {
+    font-size: 16px;
+    line-height: 40px;
+  }
+}

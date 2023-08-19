@@ -1,0 +1,18 @@
+.caption2-container {
+  display: flex;
+  position: relative;
+}
+.caption2-caption {
+  color: #000000;
+  font-size: 24px;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  font-style: normal;
+  font-family: Lora;
+  font-weight: 700;
+}
+@media(max-width: 479px) {
+  .caption2-caption {
+    font-size: 16px;
+    line-height: 40px;
+  }
+}
